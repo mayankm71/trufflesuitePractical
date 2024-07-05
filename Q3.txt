@@ -1,0 +1,17 @@
+initialise the project 
+mkdir storevalue 
+cd storevalue
+truffle init
+
+code
+
+contract StoreValue{
+    private uint value;
+    function set(uint v) public{
+        value = v;
+    }
+    function get() public view returns(uint){
+        return value;
+    }
+}
+truffle compile

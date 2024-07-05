@@ -1,0 +1,6 @@
+first we set up truffle using npm install -g truffle
+make an empty repository,cd into it then truffle init
+install HDWalletProvider npm install --save truffle
+create a contracts
+compile contracts
+deploy contract

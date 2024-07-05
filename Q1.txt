@@ -1,0 +1,8 @@
+First we initialise the dependencies
+A} ctreate a new direcotory usinkg mkdir 
+inialize project
+b} install the truffle module
+c}
+run the project init script
+d}truffle init was responsible for creating three direcotories
+contracts,migration,test
